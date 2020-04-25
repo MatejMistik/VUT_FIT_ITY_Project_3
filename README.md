@@ -5,8 +5,11 @@ Vytvořte v LaTeXu dokument, který odpovídá vzorovému dokumentu (předevší
 Hodnocení :
 
 neni kompletni algoritmus
+
 posledni stranka mela byt na sirku
+
 male mezery u verb
+
 chybi krizove odkazy
 
 8,5/15
