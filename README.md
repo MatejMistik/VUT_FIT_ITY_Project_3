@@ -12,4 +12,4 @@ male mezery u verb
 
 chybi krizove odkazy
 
-8,5/15
+8,5/15b
